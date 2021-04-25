@@ -1,0 +1,16 @@
+Txn No,Colour,Type,Price(Lakhs),Source,Condition
+1,Green,Sedan,12,International,Stolen
+2,Green,SUV,10,International,Stolen
+3,Green,SUV,12,National,Never Stolen
+4,Blue,Sedan,20,International,Stolen
+5,Black,Hatchback,12,National,Stolen
+6,Blue,Sedan,12,International,Never Stolen
+7,Blue,Hatchback,6,National,Retrieved
+8,Black,SUV,6,National,Stolen
+9,Black,Sedan,20,International,Stolen
+10,Black,Sedan,6,National,Stolen
+11,Black,SUV,10,National,Retrieved
+12,Green,SUV,12,International,Never Stolen
+13,Black,Sedan,6,National,Never Stolen
+14,Blue,Hatchback,12,International,Never Stolen
+15,Green,Hatchback,20,International,Stolen
